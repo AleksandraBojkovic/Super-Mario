@@ -1,0 +1,19 @@
+html,
+body {
+  height: 100%;
+}
+body {
+  background-image: url("./bg.jpg");
+  background-repeat: repeat-x;
+  position: relative;
+  background-position: bottom;
+  background-color: blue;
+  margin: 0px;
+}
+
+#fotka {
+    position: absolute;
+    width: 150px;
+    left:400px;
+    bottom:90px;
+}
